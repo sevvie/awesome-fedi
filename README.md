@@ -12,3 +12,5 @@ easy for everyone, but it's also github.
 * [CLI Utilites](#cli-utilities)
 
 ## CLI Utilities
+
+* [cowsay-fedi](https://git.mentality.rip/sevvie/awesome-fedi/src/branch/master/cli/cowsay-fedi.sh) &mdash; a slightly more-verbose one-liner that retrieves a post by its object URL, formats it, and pipes it into [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) and [lolcat](https://github.com/tehmaze/lolcat/). Why? Um.
